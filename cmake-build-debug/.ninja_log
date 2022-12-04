@@ -1,0 +1,14 @@
+# ninja log v5
+18	4741	6918652240771458	bin/CMakeFiles/labwork5.dir/main.cpp.obj	cbe0e0a8c92047c
+2	5754	6918652251133707	lib/CMakeFiles/argparser.dir/ArgParser.cpp.obj	846688000547af8d
+10	6430	6918652257891358	lib/CMakeFiles/argparser.dir/CommandLineOption.cpp.obj	3cbb6cf211b71843
+6430	7082	6918652264470971	lib/libargparser.a	5e1e89b2c7065f2c
+7082	7988	6918652273446158	bin/labwork5.exe	22cffc98729903e0
+158	19365	6918652570419318	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	c3e7ae11a9b8fa31
+51	22588	6918652603011911	tests/CMakeFiles/argparser_tests.dir/argparser_test.cpp.obj	68de6b24a6491e6d
+91	59498	6918652972007010	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	5ca5153f98fdc995
+59501	63423	6918653011475412	lib/libgtest.a	ca09299867468b54
+63423	63560	6918653012886519	lib/libgtest_main.a	aeaf42e01b92f53f
+63561	70726	6918653084447072	tests/argparser_tests.exe	e9d3e787146644fd
+63561	70726	6918653084447072	tests/argparser_tests[1]_tests.cmake	e9d3e787146644fd
+63561	70726	6918653084447072	C:/Users/gonos/Laboratory_5/cmake-build-debug/tests/argparser_tests[1]_tests.cmake	e9d3e787146644fd
